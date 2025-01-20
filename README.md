@@ -4,10 +4,10 @@ Instala las dependencias con el siguiente comando, pero recuerda debes poseer un
 ### URL importantes
 Estas son las URL a las que puede navegar
 
-Iniciar sesion: https://localhost:3000/signin
-Crear Cuenta: https://localhost:3000/signup
-Ver Ordenes: https://localhost:3000/orders
-Crear Ordenes: https://localhost:3000/orders/new
+- Iniciar sesion: https://localhost:3000/signin
+- Crear Cuenta: https://localhost:3000/signup
+- Ver Ordenes: https://localhost:3000/orders
+- Crear Ordenes: https://localhost:3000/orders/new
 
 ```bash
 npm install
